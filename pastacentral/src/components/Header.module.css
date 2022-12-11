@@ -1,0 +1,56 @@
+.banner {
+    position: fixed;
+    top: -15px;
+    left: 50px;
+    
+    
+  
+    color: yellow;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    
+    font-size: 50px;
+    font-family: cursive;
+    }
+    
+.img {
+      height: 250px;
+      width: 100%;
+    }
+
+.phone {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    color: yellow;
+}    
+
+.medical {
+   
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    
+}
+
+.banner {
+    height: 100px
+}
+
+.button {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    
+}
+
+.btnone {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    
+}
