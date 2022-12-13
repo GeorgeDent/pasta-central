@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pasta-central-shop/static/css/main.b50221dd.css",
+    "main.js": "/pasta-central-shop/static/js/main.df35d2e2.js",
+    "index.html": "/pasta-central-shop/index.html",
+    "main.b50221dd.css.map": "/pasta-central-shop/static/css/main.b50221dd.css.map",
+    "main.df35d2e2.js.map": "/pasta-central-shop/static/js/main.df35d2e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b50221dd.css",
+    "static/js/main.df35d2e2.js"
+  ]
+}
